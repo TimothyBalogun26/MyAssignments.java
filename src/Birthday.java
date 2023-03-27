@@ -16,7 +16,7 @@ public class Birthday {
 
         // Test cases for the birthdayName method
         System.out.println(birthdayName("Tim")); // "Happy Birthday Tim!"
-        System.out.println(birthdayName("Bobo")); // "Happy Birthday Mary!"
-        System.out.println(birthdayName("Timothy")); // "Happy Birthday Alice!"
+        System.out.println(birthdayName("Bobo")); // "Happy Birthday Bobo!"
+        System.out.println(birthdayName("Timothy")); // "Happy Birthday Timothy!"
     }
 }
