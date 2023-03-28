@@ -4,26 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eed2fc81-c2be-47b0-81c0-630cb1139557" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyAssignments.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Birthday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EndingSwapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FibonacciDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FrontMissing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NonStartDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PalindromesTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseDoubleChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringEveryOther.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfLucky.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPower.java" afterDir="false" />
+    <list default="true" id="eed2fc81-c2be-47b0-81c0-630cb1139557" name="Changes" comment="New Commit for MyAssign">
+      <change afterPath="$PROJECT_DIR$/src/MyAssignments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Birthday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EndingSwapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FibonacciDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FrontMissing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NonStartDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PalindromesTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseDoubleChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringEveryOther.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfLucky.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoPower.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,21 +44,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.SumOfLucky">
-    <configuration name="Birthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Birthday" />
-      <module name="MyAssignments" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.MyAssignments">
     <configuration name="FibonacciDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FibonacciDemo" />
       <module name="MyAssignments" />
@@ -73,6 +61,13 @@
     </configuration>
     <configuration name="FrontMissing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FrontMissing" />
+      <module name="MyAssignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyAssignments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyAssignments" />
       <module name="MyAssignments" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyAssignments" />
         <item itemvalue="Application.SumOfLucky" />
         <item itemvalue="Application.PalindromesTester" />
         <item itemvalue="Application.FibonacciDemo" />
         <item itemvalue="Application.FrontMissing" />
-        <item itemvalue="Application.Birthday" />
       </list>
     </recent_temporary>
   </component>
@@ -111,6 +106,25 @@
       <option name="presentableId" value="Default" />
       <updated>1679942519793</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Commit for MyAssign">
+      <created>1679948995991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679948995991</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New Commit for MyAssign">
+      <created>1679949096606</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679949096606</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Commit for MyAssign" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Commit for MyAssign" />
   </component>
 </project>
